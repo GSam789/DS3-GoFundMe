@@ -1,10 +1,4 @@
 # DS3-GoFundMe
  Fall 2020 project
 
-Motivation for the project
-
-Explanation of methods
-
-Results
-
-Future
+Medium Article Link: https://medium.com/ds3ucsd/gofundme-predictive-analysis-3cdc3218b1ba
